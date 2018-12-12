@@ -64,7 +64,7 @@ public class DistanceTest {
 	
 	}
 	@Test
-	public void DistanceTest() {
+	public void TesDistance() {
 		
 		D1.setFeet(feetD1);
 		D1.setInches(inchesD1);
