@@ -3,7 +3,7 @@ package ie.gmit.dip;
 import java.util.*;
 
 //class Distance to read, print and add distance
-// class Distance - commented out as it was not necessary
+
 public class Distance
 {
 	
@@ -20,11 +20,11 @@ public class Distance
 		return this.inches;
 	
 	}
-	public void setFeet(int feet) {
+	public void setFeet(int feet) {// included for test
 		this.feet = feet;
 	}
 
-	public void setInches(int inches) {
+	public void setInches(int inches) {// included for test
 		this.inches = inches;
 	}
 	public void getDistance(int feet, int inches) // parameters included for parameterised test
