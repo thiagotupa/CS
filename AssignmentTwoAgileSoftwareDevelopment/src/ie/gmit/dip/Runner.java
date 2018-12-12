@@ -1,6 +1,7 @@
 package ie.gmit.dip;
 
-public class AddTwoDistance {
+public class Runner{
+//public class AddTwoDistance {
 	// class Distance separated and AddTwoDistance Class used as Runner Class.
 	
 	

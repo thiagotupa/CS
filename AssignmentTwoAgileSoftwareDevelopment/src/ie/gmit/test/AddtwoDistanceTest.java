@@ -1,4 +1,4 @@
-package ie.gmit.dip;
+package ie.gmit.test;
 
 import static org.junit.Assert.assertEquals;
 
@@ -10,6 +10,8 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+
+import ie.gmit.dip.Distance;
 
 public class AddtwoDistanceTest {
 	
