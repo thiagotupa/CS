@@ -46,6 +46,8 @@ public class Distance
 	public void showDistance()
 	{
 		System.out.println("Feet: "+ feet + "\tInches: "+ inches);
+		System.out.println(feet);// included for test
+		System.out.println(inches);// included for test
 	}
 
 
