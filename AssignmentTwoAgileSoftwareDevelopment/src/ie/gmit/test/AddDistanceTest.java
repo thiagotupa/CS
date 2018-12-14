@@ -13,7 +13,7 @@ import org.junit.runners.Parameterized;
 
 import ie.gmit.dip.Distance;
 
-public class AddtwoDistanceTest {
+public class AddDistanceTest {
 	
 	
 	Distance D1;

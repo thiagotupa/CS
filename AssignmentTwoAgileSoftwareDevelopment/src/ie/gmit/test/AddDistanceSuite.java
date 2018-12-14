@@ -6,9 +6,10 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
 	DistanceTest.class,
-	AddtwoDistanceTest.class
+	AddDistanceTest.class,
+	ShowDistanceTest.class
 })
 
-public class AddTwoDistanceSuite {
+public class AddDistanceSuite {
 
 }
